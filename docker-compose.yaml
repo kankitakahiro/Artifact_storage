@@ -16,6 +16,6 @@ services:
         # 起動時のカレントフォルダ
         working_dir: /app
         # 起動後に実行するコマンド
-        command: npm run dev
+        # command: npm run dev
         # # 起動後に実行するコマンド
-        # command: npm start
+        command: npm start
